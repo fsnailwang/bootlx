@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.xfs.learn</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>jx-springboot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>springboot-learn</name>
+	<name>jx-springboot</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
