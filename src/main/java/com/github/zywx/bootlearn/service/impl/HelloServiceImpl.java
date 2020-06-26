@@ -1,6 +1,6 @@
-package com.xfs.learn.service.impl;
+package com.github.zywx.bootlearn.service.impl;
 
-import com.xfs.learn.service.HelloService;
+import com.github.zywx.bootlearn.service.HelloService;
 import org.springframework.stereotype.Service;
 
 /**

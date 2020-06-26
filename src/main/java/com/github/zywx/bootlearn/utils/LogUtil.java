@@ -1,4 +1,4 @@
-package com.xfs.learn.utils;
+package com.github.zywx.bootlearn.utils;
 
 /**
  * A simple class desc

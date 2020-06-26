@@ -1,4 +1,4 @@
-package com.xfs.learn.config;
+package com.github.zywx.bootlearn.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.ImportResource;

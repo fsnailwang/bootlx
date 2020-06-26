@@ -1,6 +1,7 @@
-package com.xfs.learn.controller;
+package com.github.zywx.bootlearn.controller;
 
-import com.xfs.learn.service.impl.HelloServiceImpl;
+import com.github.zywx.bootlearn.service.impl.HelloServiceImpl;
+
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
